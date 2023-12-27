@@ -1,8 +1,8 @@
 
-#Data Science Projects Collection
+Data Science Projects Collection
 Welcome to the Data Science Projects Collection repository! This repository houses a diverse range of projects covering various domains within the exciting field of data science. Each project is categorized based on major stages in the data science lifecycle, providing a comprehensive overview of the skills and techniques involved.
 
-##Project Domains:
+Project Domains:
 Data Collection and Web Scraping:
 
 Explore projects showcasing the extraction of valuable data from the web using web scraping techniques.
