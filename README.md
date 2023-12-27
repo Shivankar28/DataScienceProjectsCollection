@@ -24,7 +24,7 @@ Delve into the realm of machine learning with projects that cover various algori
 Dashboards:
 
 Witness the creation of interactive dashboards using Dash, offering a user-friendly interface to interact with and explore data-driven insights.
-Technology Stack:
+## Technology Stack:
 Python: The primary programming language for all projects.
 NumPy and Pandas: Essential libraries for data manipulation and analysis.
 Matplotlib and Seaborn: Used for creating informative and visually appealing data visualizations.
@@ -34,14 +34,14 @@ Various Machine Learning Algorithms: Explore projects implementing algorithms fo
 Project Structure:
 The repository is organized into folders corresponding to each project category. Each project folder contains:
 
-Code implementations in Jupyter Notebooks or Python scripts.
+### Code implementations in Jupyter Notebooks or Python scripts.
 Datasets used for analysis and modeling.
 Documentation providing insights into project objectives, methodologies, and results.
 How to Use:
 Explore Projects:
 
 Navigate to individual project folders to explore the code, datasets, and documentation.
-Contribute:
+## Contribute:
 
 Feel free to contribute by adding your own projects or enhancing existing ones. Follow the guidelines outlined in the CONTRIBUTING.md file.
 Feedback:
