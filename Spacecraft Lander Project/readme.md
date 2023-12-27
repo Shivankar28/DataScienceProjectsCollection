@@ -20,3 +20,14 @@ Web Scraping: BeautifulSoup, requests
 Folium: Map visualization library
 Data Visualization: Matplotlib, Seaborn, Plotly
 Machine Learning: Scikit-learn, TensorFlow, PyTorch
+
+Contributions
+Contributions to enhance the predictive model, improve data collection, or add new features are welcome. If you'd like to contribute, follow the standard GitHub flow:
+
+Fork the repository.
+Create a new branch for your changes.
+Make your contributions.
+Submit a pull request, describing the changes made.
+Let's work together to advance spacecraft landing prediction technology!
+
+Happy coding!
