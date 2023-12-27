@@ -1,4 +1,4 @@
-Data Science Basics Repository
+# Data Science Basics Repository
 Overview
 This repository serves as a comprehensive guide to data science basics, covering essential concepts, tools, and techniques. The Jupyter Notebooks provided cover various topics, including data wrangling, data visualization with Plotly and Dash, interactive maps using Folium, web scraping, and data analysis.
 
